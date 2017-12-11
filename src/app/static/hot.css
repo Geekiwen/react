@@ -1,0 +1,35 @@
+.hot{
+	float: left;
+    margin-left: 20px;
+    display: inline;
+    margin-top: 20px;
+    height: 280px;
+}
+
+.hot h2{
+	width: 126px;
+    height: 21px;
+    line-height: 300px;
+    overflow: hidden;
+    background: url(../images/sprite_sec.png) no-repeat;
+}
+
+.hot ul{
+    margin-top: 14px;
+}
+
+.hot ul li{
+    width: 325px;
+    height: 32px;
+    line-height: 32px;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+.hot ul li a{
+	color: #404040;
+}
+
+.hot ul li a:hover{
+	color: #f00;
+}

@@ -1,0 +1,26 @@
+.change{
+	width: 58px;
+	height: 42px;
+	background-color: orangered;
+	color: white;
+	font-weight: bold;
+	line-height: 42px;
+	text-align: center;
+	position: fixed;
+	bottom: 30px;
+	right: 50px;
+	display: block;
+	border-radius:5px ;
+}
+.re{
+	width: 50px;
+	height: 50px;
+	background-color: orangered;
+	color: white;
+	font-weight: bold;
+	line-height: 50px;
+	position: fixed;
+	bottom: 30px;
+	right: 50px;
+	display: blcok;
+}

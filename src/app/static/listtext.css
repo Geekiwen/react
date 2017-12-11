@@ -1,0 +1,28 @@
+.list-text{
+	width: 600px;
+    margin-top: 20px;
+}
+
+.list-text ul li:nth-child(1){
+	font-size: 30px;
+    margin-top: 10px;
+    height: 50px;
+    overflow: hidden;
+    font-weight: 700;
+}
+
+.list-text ul li{
+    width: 500px;
+    margin: 10px 10px;
+    font-size: 18px;
+    font-family: '\5fae\8f6f\96c5\9ed1';
+}
+
+.list-text ul li a{
+	color:#404040;
+    white-space:nowrap;
+}
+
+.list-text ul li a:hover{
+    color: #f00;
+}

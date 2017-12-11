@@ -1,0 +1,14 @@
+.guonei-container{
+	width: 960px;
+	margin:0 auto;
+	margin-top: 20px;
+}
+
+.container-right, .container-left{
+	float: left;
+}
+
+.container-right{
+	background: #f8f8f8;
+	width: 360px;
+}

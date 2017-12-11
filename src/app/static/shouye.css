@@ -1,0 +1,25 @@
+.contentsize{
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.sizeLeft{
+	width: 300px;
+	overflow: hidden;
+}
+
+.sizeCenter{
+	width: 550px;
+	margin-right: 50px;
+	overflow: hidden;
+}
+
+.sizeRight{
+	width: 300px;
+	overflow: hidden;
+}
+
+.sizeLeft, .sizeCenter, .sizeRight{
+	float: left;
+}
